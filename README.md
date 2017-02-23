@@ -1,0 +1,2 @@
+# RBE501_MobileManipulator
+The purpose of this project is to apply the knowledge gained in the RBE 501: Robot Dynamics course to a real world robotic engineering problem. The task chosen is to program a mobile robotic platform with a robotic arm to perform pick and place operations that simulate handling and relocating objects in a warehouse. This will be done as a simulated exercise using python and ROS to program a Fetch Robotics manipulation platform with an attached 7 Degree-of-Freedom (DOF) manipulator arm in Gazebo, a simulated robot environment.
